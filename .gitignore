@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
